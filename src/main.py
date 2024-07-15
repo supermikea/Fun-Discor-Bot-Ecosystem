@@ -1,3 +1,3 @@
 import Utils.util
 
-bob_token = write_read_f(optio)
+bob_token = open("src/Tokens/bob_token", "r").read()
